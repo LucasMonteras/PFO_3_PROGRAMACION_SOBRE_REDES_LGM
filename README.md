@@ -1,4 +1,4 @@
-# PFO 3 - Rediseño como Sistema Distribuido (Cliente-Servidor)
+# PFO 3 -  Sistema Distribuido (Cliente-Servidor)
 
 ## Datos del trabajo
 
